@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="iWebOffice2015JSP-Simple_Test:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/iWebOffice2015JSP_Simple_Test_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="iWebOffice2015JSP-Simple_Test/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="iWebOffice2015JSP-Simple_Test" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

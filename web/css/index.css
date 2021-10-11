@@ -1,0 +1,94 @@
+body{
+    background-color: rgba(191, 185, 174, 0.571);
+}
+
+header{
+    width: 100%;
+    height: 60px;
+    background-color: #FAFDFA;
+    border-bottom: 1px solid rgb(147, 141, 141);
+    box-shadow: 0 0 10px rgba(125, 118, 118, 0.3);
+
+}
+
+
+
+.logo img{
+    height: 100%;
+    width: 150px;
+    margin-left: 50px;
+}
+
+
+
+.main{
+    
+    position: absolute;
+    left: 150px;
+    width: 80%;
+    /* background-color: royalblue; */
+}
+.nav{
+    position: relative;
+    width: 100%;
+    background-color: #FAFDFA;
+    margin: 0 auto;
+    top: 50px;
+    box-shadow: 0 0 10px rgba(125, 118, 118, 0.3);
+}
+
+.nav-menu{
+    height: 550px;
+    width: 10%;
+    /* background-color: chocolate ; */
+    /* 设置弹性盒子 */
+    display: flex;
+    /* 是否开启换行 */
+    /* flex-wrap: wrap; */
+    /* 开启弹性盒子的纵向排列 */
+    flex-direction: column;
+    /* 居中排列 */
+    justify-content: center;
+    
+}
+
+.nav-menu li{
+    width: 100%;
+    height: 30px;
+    background-color: #FAFDFA;
+    flex-grow: 1;
+}
+
+.nav-menu li:hover{
+    background-color: #F8F8F8;
+}
+
+.nav-menu a{
+    display: block;
+    line-height: 30px;
+    text-align: center;
+}
+
+.weboffice{
+    position:absolute;
+    top: 0px;
+    left: 115px;
+    width: 90%;
+    height: 100%;
+     background-color: saddlebrown;
+}
+
+footer{
+    position: absolute;
+    color: seashell;
+    width: 100%;
+    height: 50px;
+    background-color: #525E58;
+    text-align: center;
+    line-height: 50px;
+    bottom: 0px;
+    border-top: 2px solid rgb(147, 141, 141);
+    box-shadow: 0 0 10px rgba(125, 118, 118, 0.3);
+    z-index: 999;
+}
+

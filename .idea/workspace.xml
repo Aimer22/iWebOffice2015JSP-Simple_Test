@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="iWebOffice2015JSP-Simple_Test:Web exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="089d5286-9177-4aff-b611-7c34f288f783" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/iWebOffice2015JSP_Simple_Test_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iWebOffice2015JSP-Simple_Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DBstep/iDBManager2000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DBstep/iMsgServer2015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Servlet/OfficeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-httpclient-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-lang-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/ezmorph-1.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jsf-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jsf-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.2.3-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/msbase.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/msutil.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/ojdbc14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/sqljdbc4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/01.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/document/test.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/document/模板文档.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/document/测试文档.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/document/测试水印.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/WebOffice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/iWebOffice2015.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="E:\Git\bin\git.exe" />
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Aimer22 &lt;44492519+aimer22@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/web/js/WebOffice.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/DBstep/iDBManager2000.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Servlet/OfficeServer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/web/index.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/DBstep/iMsgServer2015.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1pWgL548VFXm3l8pQ2lFb52eCjn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/git_iWebOffice" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.28965518" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IntelliJ IDEA 2021.1.3\workspace\iWebOffice2015JSP-Simple_Test\out\artifacts\iWebOffice2015JSP_Simple_Test_Web_exploded\document" />
+      <recent name="F:\IDEA\IntelliJ IDEA 2019.3.3\worksplace\iWebOffice2015JSP-Simple_Test\out\artifacts\iWebOffice2015JSP_Simple_Test_Web_exploded\document" />
+      <recent name="F:\IDEA\IntelliJ IDEA 2019.3.3\worksplace\iWebOffice2015JSP-Simple_Test\web\document" />
+      <recent name="F:\IDEA\IntelliJ IDEA 2019.3.3\worksplace\iWebOffice2015JSP-Simple_Test\web\WEB-INF\lib" />
+      <recent name="F:\IDEA\IntelliJ IDEA 2019.3.3\worksplace\iWebOffice2015JSP-Simple_Test\src\DBstep" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8090/iWebOffice2015JSP_Simple_Test_Web_exploded/index.jsp" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="iWebOffice2015JSP-Simple_Test:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/iWebOffice2015JSP_Simple_Test_Web_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_iWebOffice2015JSP-Simple_Test" />
+        <option name="HTTP_PORT" value="8090" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57631" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="iWebOffice2015JSP-Simple_Test:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.21419097" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="089d5286-9177-4aff-b611-7c34f288f783" name="Default Changelist" comment="" />
+      <created>1615304200928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615304200928</updated>
+      <workItem from="1615304202610" duration="180000" />
+      <workItem from="1615382272991" duration="5482000" />
+      <workItem from="1615470760139" duration="1764000" />
+      <workItem from="1615472551053" duration="4116000" />
+      <workItem from="1615902222552" duration="225000" />
+      <workItem from="1617772041527" duration="397000" />
+      <workItem from="1619676882002" duration="602000" />
+      <workItem from="1619767993857" duration="4507000" />
+      <workItem from="1620289110205" duration="3691000" />
+      <workItem from="1620367502483" duration="620000" />
+      <workItem from="1621232342634" duration="10828000" />
+      <workItem from="1621300213266" duration="3198000" />
+      <workItem from="1621559430926" duration="1022000" />
+      <workItem from="1621955855193" duration="1439000" />
+      <workItem from="1621991869194" duration="2716000" />
+      <workItem from="1622110359510" duration="1579000" />
+      <workItem from="1622167162701" duration="1480000" />
+      <workItem from="1622531620447" duration="751000" />
+      <workItem from="1622620099285" duration="855000" />
+      <workItem from="1622800000103" duration="1796000" />
+      <workItem from="1623027710597" duration="2891000" />
+      <workItem from="1623136537933" duration="4404000" />
+      <workItem from="1623162373575" duration="217000" />
+      <workItem from="1623200205948" duration="4445000" />
+      <workItem from="1623286727177" duration="1552000" />
+      <workItem from="1623294858640" duration="4128000" />
+      <workItem from="1623308326526" duration="5498000" />
+      <workItem from="1623380653206" duration="846000" />
+      <workItem from="1623400931769" duration="752000" />
+      <workItem from="1623832059964" duration="3154000" />
+      <workItem from="1623924566560" duration="829000" />
+      <workItem from="1623927513165" duration="2941000" />
+      <workItem from="1623939799694" duration="224000" />
+      <workItem from="1623940052017" duration="14000" />
+      <workItem from="1623940077119" duration="190000" />
+      <workItem from="1623940298410" duration="82000" />
+      <workItem from="1623940414223" duration="210000" />
+      <workItem from="1623940652443" duration="1744000" />
+      <workItem from="1623997391177" duration="3249000" />
+      <workItem from="1624153038758" duration="2594000" />
+      <workItem from="1624236931966" duration="13865000" />
+      <workItem from="1624280266978" duration="2341000" />
+      <workItem from="1624427819171" duration="1945000" />
+      <workItem from="1624518332396" duration="1660000" />
+      <workItem from="1624583434298" duration="1289000" />
+      <workItem from="1624591123100" duration="1399000" />
+      <workItem from="1624934232720" duration="592000" />
+      <workItem from="1625155293833" duration="496000" />
+      <workItem from="1625155822040" duration="1405000" />
+      <workItem from="1625188503469" duration="3962000" />
+      <workItem from="1625534488037" duration="9993000" />
+      <workItem from="1625629077326" duration="4771000" />
+      <workItem from="1625705340078" duration="1356000" />
+      <workItem from="1625738038130" duration="1328000" />
+      <workItem from="1625755306170" duration="1065000" />
+      <workItem from="1625756594995" duration="1559000" />
+      <workItem from="1625791731095" duration="2844000" />
+      <workItem from="1625799696120" duration="1430000" />
+      <workItem from="1625824410664" duration="749000" />
+      <workItem from="1625905949165" duration="2487000" />
+      <workItem from="1625909292264" duration="8030000" />
+      <workItem from="1626058029943" duration="1957000" />
+      <workItem from="1626161422960" duration="1908000" />
+      <workItem from="1626227484144" duration="83000" />
+      <workItem from="1626234502891" duration="328000" />
+      <workItem from="1626234845944" duration="631000" />
+      <workItem from="1626246943017" duration="1962000" />
+      <workItem from="1626310364562" duration="31000" />
+      <workItem from="1626330330659" duration="1080000" />
+      <workItem from="1626335241273" duration="63000" />
+      <workItem from="1626335309868" duration="5000" />
+      <workItem from="1626675582213" duration="4203000" />
+      <workItem from="1626935763241" duration="2846000" />
+      <workItem from="1626939818021" duration="4266000" />
+      <workItem from="1627008513451" duration="3806000" />
+      <workItem from="1627279940977" duration="22000" />
+      <workItem from="1627280720194" duration="64000" />
+      <workItem from="1627280959664" duration="44000" />
+      <workItem from="1627365136277" duration="4165000" />
+      <workItem from="1627433315843" duration="1126000" />
+      <workItem from="1627539320975" duration="4882000" />
+      <workItem from="1627551180236" duration="37000" />
+      <workItem from="1627895775067" duration="971000" />
+      <workItem from="1627969217490" duration="1138000" />
+      <workItem from="1628039700261" duration="419000" />
+      <workItem from="1628129509839" duration="62000" />
+      <workItem from="1628130545537" duration="394000" />
+      <workItem from="1628146168803" duration="15000" />
+      <workItem from="1628146463695" duration="6000" />
+      <workItem from="1628148000301" duration="13000" />
+      <workItem from="1628148478124" duration="218000" />
+      <workItem from="1628149203807" duration="15000" />
+      <workItem from="1628579089994" duration="1706000" />
+      <workItem from="1628583507872" duration="2964000" />
+      <workItem from="1628646836164" duration="27000" />
+      <workItem from="1628648815300" duration="6178000" />
+      <workItem from="1628820764525" duration="2320000" />
+      <workItem from="1629166744420" duration="1448000" />
+      <workItem from="1629186880871" duration="610000" />
+      <workItem from="1629266257935" duration="2812000" />
+      <workItem from="1629281965964" duration="1187000" />
+      <workItem from="1629365368374" duration="563000" />
+      <workItem from="1629422571585" duration="602000" />
+      <workItem from="1629681534693" duration="4292000" />
+      <workItem from="1629706624732" duration="1610000" />
+      <workItem from="1629766648278" duration="68000" />
+      <workItem from="1629767702425" duration="81000" />
+      <workItem from="1629783988173" duration="2759000" />
+      <workItem from="1629791933109" duration="5884000" />
+      <workItem from="1629812165694" duration="11000" />
+      <workItem from="1629861484724" duration="23000" />
+      <workItem from="1629861510906" duration="2000" />
+      <workItem from="1629882798919" duration="260000" />
+      <workItem from="1629898889951" duration="147000" />
+      <workItem from="1629948300560" duration="680000" />
+      <workItem from="1630028114369" duration="13873000" />
+      <workItem from="1630375641616" duration="33000" />
+      <workItem from="1630459505989" duration="172000" />
+      <workItem from="1630563200265" duration="3298000" />
+      <workItem from="1630632324205" duration="684000" />
+      <workItem from="1630748390698" duration="4302000" />
+      <workItem from="1630829685737" duration="2823000" />
+      <workItem from="1630897704249" duration="1410000" />
+      <workItem from="1631000953823" duration="2711000" />
+      <workItem from="1631080386068" duration="4066000" />
+      <workItem from="1631166231364" duration="1176000" />
+      <workItem from="1631238466787" duration="3271000" />
+      <workItem from="1631256423473" duration="809000" />
+      <workItem from="1631513501552" duration="4515000" />
+      <workItem from="1631588335719" duration="2118000" />
+      <workItem from="1631607044078" duration="2764000" />
+      <workItem from="1631669409639" duration="609000" />
+      <workItem from="1631839763930" duration="8723000" />
+      <workItem from="1631849821248" duration="4746000" />
+      <workItem from="1631930529289" duration="1460000" />
+      <workItem from="1632271785630" duration="4735000" />
+      <workItem from="1632279939108" duration="7947000" />
+      <workItem from="1632363641507" duration="8485000" />
+      <workItem from="1632446208125" duration="200000" />
+      <workItem from="1632446434597" duration="7651000" />
+      <workItem from="1632467923763" duration="596000" />
+      <workItem from="1632708815946" duration="779000" />
+      <workItem from="1632713792680" duration="3925000" />
+      <workItem from="1632790382574" duration="33000" />
+      <workItem from="1632809805425" duration="2297000" />
+      <workItem from="1632879662754" duration="5163000" />
+      <workItem from="1633657619842" duration="1371000" />
+      <workItem from="1633747054025" duration="1300000" />
+      <workItem from="1633765163835" duration="1299000" />
+      <workItem from="1633917821190" duration="6749000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1633936966701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633936966701</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../../Git/repository" />
+      <path value="$PROJECT_DIR$" />
+      <path value="$APPLICATION_HOME_DIR$" />
+      <path value="$PROJECT_DIR$/git_iWebOffice" />
+      <path value="$PROJECT_DIR$/../../../Git/Git_iWebOffice" />
+    </ignored-roots>
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
